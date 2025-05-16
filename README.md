@@ -1,5 +1,6 @@
 # Miro
 # React + TypeScript + Vite
+React, Vite, tailwindcss, shadcn/ui, msw, openapi, tanstack-query, Evolution Design, create-gstore
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

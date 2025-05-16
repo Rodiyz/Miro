@@ -1,14 +1,11 @@
-import { useState } from 'react'
-import './App.css'
+import { Outlet } from "react-router-dom";
+import { AppHeader } from "@/features/header";
 
-function App() {
-
+export function App() {
   return (
-    <>
-      <p>hello</p>
-      <p>hello</p>
-    </>
-  )
+    <div className="min-h-screen flex flex-col">
+      <AppHeader />
+      <Outlet />
+    </div>
+  );
 }
-
-export default App
