@@ -1,6 +1,4 @@
-import { paths, components } from "./generated";
+import { type paths, type components } from "@/shared/api/schema/generated";
 
 export type ApiPaths = paths;
-export type ApiSchemas = component["schemas"]
-
-type R = ApiSchemas['CreateBoard']
+export type ApiSchemas = components["schemas"];
