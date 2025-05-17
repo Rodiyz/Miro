@@ -32,7 +32,7 @@ function BoardsListPage() {
       header={
         <BoardsListLayoutHeader
           title="Последние доски"
-          description="Здесь вы можете просматривать и управлять своими последними досками"
+          description="Здесь вы можете просматривать и управлять своими последними задачами"
           actions={
             <ViewModeToggle
               value={viewMode}

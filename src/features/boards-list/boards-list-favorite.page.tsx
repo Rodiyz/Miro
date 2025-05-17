@@ -25,7 +25,7 @@ function BoardsListPage() {
       header={
         <BoardsListLayoutHeader
           title="Избранные доски"
-          description="Здесь вы можете просматривать и управлять своими избранными досками"
+          description="Здесь вы можете просматривать и управлять своими избранными задачами"
           actions={
             <ViewModeToggle
               value={viewMode}

@@ -45,8 +45,8 @@ function BoardsListPage() {
         sidebar={<BoardsSidebar />}
         header={
           <BoardsListLayoutHeader
-            title="Доски"
-            description="Здесь вы можете просматривать и управлять своими досками"
+            title="Списки задач"
+            description="Здесь вы можете просматривать и управлять своими задачами"
             actions={
               <>
                 <Button variant="outline" onClick={() => templatesModal.open()}>
