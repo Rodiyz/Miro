@@ -1,6 +1,16 @@
-# Miro
+# "Miro" - to-do list 
 
-# React + TypeScript + Vite
+## React + TypeScript + Vite
+
+### tailwindcss, shadcn/ui, msw, openapi, tanstack-query, Evolution Design, create-gstore
+
+
+#### Project concept and video lesson
+[youtube Евгений Паромов](https://www.youtube.com/@paromovevg)
+[video link](https://youtu.be/cRzcnKxmIZo?si=mUROKPWheMu-tnZJ)
+
+
+
 
 React, Vite, tailwindcss, shadcn/ui, msw, openapi, tanstack-query, Evolution Design, create-gstore
 
